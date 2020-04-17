@@ -1,0 +1,7 @@
+textarea[name='body'] {
+    resize: none;
+}
+
+.fa-chevron-circle-left {
+    line-height: -1px;
+}
